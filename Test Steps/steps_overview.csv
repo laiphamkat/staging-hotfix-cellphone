@@ -1,5 +1,5 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Verify Successful Checkout Process from Inventory to Final Step,"step 1: Navigate to Page home
+1,Verify Successful Checkout Process from Home Page to Step Two,"step 1: Navigate to Page home
 step 2: Login at Page home --> navigate to Page inventory html
 step 3: At Page inventory html click on hyperlink object --> navigate to Page cart html
 step 4: At Page cart html click on button checkout --> navigate to Page checkout-step-one html
