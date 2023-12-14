@@ -1,5 +1,5 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Verify Successful Checkout Process from Inventory to Final Confirmation,"step 1: Navigate to Page home
+1,Verify Successful Checkout Process with Valid User Information,"step 1: Navigate to Page home
 step 2: Login at Page home --> navigate to Page inventory html
 step 3: At Page inventory html click on button add to cart sauce labs backpack
 step 4: At Page inventory html click on hyperlink object --> navigate to Page cart html
