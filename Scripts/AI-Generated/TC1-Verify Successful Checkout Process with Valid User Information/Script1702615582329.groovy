@@ -1,7 +1,7 @@
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import internal.GlobalVariable as GlobalVariable
-import com.kms.katalon.core.model.FailureHandling
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.model.FailureHandling
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -63,9 +63,9 @@ WebUI.submit(testObj)
 
 WebUI.delay(15)
 
-'step 3: At Page inventory html click on button add to cart sauce labs backpack'
+'step 3: At Page inventory html click on button remove sauce labs backpack'
 
-testObj = findTestObject('AI-Generated/Page_inventory_html/button_add_to_cart_sauce_labs_backpack')
+testObj = findTestObject('AI-Generated/Page_inventory_html/button_remove_sauce_labs_backpack')
 
 WebUI.delay(3)
 
