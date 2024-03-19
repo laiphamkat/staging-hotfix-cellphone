@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www.saucedemo.com",
+        "step 2: Login",
+        "step 3: Click on input field 'password'",
+        "step 4: Click on input field 'password'",
+        "step 5: Click on div",
+        "step 6: Click on div",
+        "step 7: Click on input field 'password'",
+        "step 8: Click on input field 'password'",
+        "step 9: Enter input value in input field 'password'",
+        "step 10: Enter input value in input field 'password'",
+        "step 11: Click on input field 'login-button' -> Navigate to page 'inventory.html'",
+        "step 12: Click on link '3' -> Navigate to page 'cart.html'",
+        "step 13: Click on button 'checkout' -> Navigate to page 'checkout-step-one.html'",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}
