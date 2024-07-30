@@ -1,15 +1,5 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Verify Successful Login and Checkout Process,"Navigate to the home page, login, and access the inventory. Proceed to the cart and initiate the checkout process. Verify the checkout step one page.","step 1: Navigate to https://www.saucedemo.com
-step 2: Login
-step 3: Click on input field 'password'
-step 4: Click on input field 'password'
-step 5: Click on div
-step 6: Click on div
-step 7: Click on input field 'password'
-step 8: Click on input field 'password'
-step 9: Enter input value in input field 'password'
-step 10: Enter input value in input field 'password'
-step 11: Click on input field 'login-button' -> Navigate to page 'inventory.html'
-step 12: Click on link '3' -> Navigate to page 'cart.html'
-step 13: Click on button 'checkout' -> Navigate to page 'checkout-step-one.html'
-step 14: Take full page screenshot as checkpoint",Trivial
+1,Navigate to Shop Page from Home,"Navigate to the home page, click on the 'Shop' link, and verify that the user is back on the home page.","Step 1: Navigate to /
+Step 2: Click on link shop -> Navigate to page ''
+Step 3: Take full page screenshot as checkpoint
+",High
